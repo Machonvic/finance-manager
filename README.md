@@ -1,2 +1,2 @@
 # finance-manager
-An application to manage finances and provide financial informations
+An application to manage finances and provide financial informations.
